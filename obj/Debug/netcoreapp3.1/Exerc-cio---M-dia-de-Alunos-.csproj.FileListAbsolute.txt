@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\Exerc-cio---M-dia-de-Alunos-\bin\Debug\netcoreapp3.1\Exerc-cio---M-dia-de-Alunos-.exe
+C:\Users\ACER\Desktop\Exerc-cio---M-dia-de-Alunos-\bin\Debug\netcoreapp3.1\Exerc-cio---M-dia-de-Alunos-.deps.json
+C:\Users\ACER\Desktop\Exerc-cio---M-dia-de-Alunos-\bin\Debug\netcoreapp3.1\Exerc-cio---M-dia-de-Alunos-.runtimeconfig.json
+C:\Users\ACER\Desktop\Exerc-cio---M-dia-de-Alunos-\bin\Debug\netcoreapp3.1\Exerc-cio---M-dia-de-Alunos-.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\Exerc-cio---M-dia-de-Alunos-\bin\Debug\netcoreapp3.1\Exerc-cio---M-dia-de-Alunos-.dll
+C:\Users\ACER\Desktop\Exerc-cio---M-dia-de-Alunos-\bin\Debug\netcoreapp3.1\Exerc-cio---M-dia-de-Alunos-.pdb
+C:\Users\ACER\Desktop\Exerc-cio---M-dia-de-Alunos-\obj\Debug\netcoreapp3.1\Exerc-cio---M-dia-de-Alunos-.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\Exerc-cio---M-dia-de-Alunos-\obj\Debug\netcoreapp3.1\Exerc-cio---M-dia-de-Alunos-.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Exerc-cio---M-dia-de-Alunos-\obj\Debug\netcoreapp3.1\Exerc-cio---M-dia-de-Alunos-.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Exerc-cio---M-dia-de-Alunos-\obj\Debug\netcoreapp3.1\Exerc-cio---M-dia-de-Alunos-.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Exerc-cio---M-dia-de-Alunos-\obj\Debug\netcoreapp3.1\Exerc-cio---M-dia-de-Alunos-.dll
+C:\Users\ACER\Desktop\Exerc-cio---M-dia-de-Alunos-\obj\Debug\netcoreapp3.1\Exerc-cio---M-dia-de-Alunos-.pdb
+C:\Users\ACER\Desktop\Exerc-cio---M-dia-de-Alunos-\obj\Debug\netcoreapp3.1\Exerc-cio---M-dia-de-Alunos-.genruntimeconfig.cache
